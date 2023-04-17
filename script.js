@@ -4,14 +4,14 @@ const paragraphs = [
     "Hail to the single steps we have made and we believe that they are taking us to the thousand miles that we desire",
     "Good morning, everyone, it is quite a beautiful day.",
     " I just want to remind you that you are like a queen bee bestowed with many", 
-    "responsibilities of taking care of and nurturing your hive. ",
-    "you should keep your sparkle as bright as possible.  ",
+    "Responsibilities of taking care of and nurturing your hive. ",
+    "You should keep your sparkle as bright as possible.  ",
     " We all have a culture that we identify ourselves with,",
-    " we have beliefs that we cling to and we have patterns of life that we stick to no matter what",
+    " We have beliefs that we cling to and we have patterns of life that we stick to no matter what",
     "I peg my reference to all the aspects most especially religion",
     "When the year began I went on my knees just like any other believer and begged ",
-    "for a breakthrough and instead,  this year I was blessed with a bit more tears than any other year",
-    " pain, weakness overload, and a heart-to-give up but I kept having faith in God that everything will fall in place.",
+    "For a breakthrough and instead,  this year I was blessed with a bit more tears than any other year",
+    " Pain, weakness overload, and a heart-to-give up but I kept having faith in God that everything will fall in place.",
    
 ]
 const typingText = document.querySelector(".typing-text p")
