@@ -3,7 +3,7 @@ const paragraphs = [
     "They say a journey of a thousand miles begins with a single step  ",
     "Hail to the single steps we have made and we believe that they are taking us to the thousand miles that we desire",
     "Good morning, everyone, it is quite a beautiful day.",
-    " I just want to remind you that you are like a queen bee bestowed with many", 
+    " I just want to remind you that you are like a queen bee bestowed with a lot ", 
     "Responsibilities of taking care of and nurturing your hive. ",
     "You should keep your sparkle as bright as possible.  ",
     " We all have a culture that we identify ourselves with,",
@@ -39,6 +39,7 @@ function loadParagraph() {
     document.addEventListener("keydown", () => inpField.focus());
     typingText.addEventListener("click", () => inpField.focus());
 }
+
 
 function initTyping() {
     let characters = typingText.querySelectorAll("span");
